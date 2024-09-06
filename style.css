@@ -1,0 +1,39 @@
+body {
+    color: green;
+    background: black;
+    margin: 0px;
+    font-family: "Chackra Petch", sans-serif;
+}
+
+header {
+color: red;
+border-bottom: solid 10px white;
+padding: 10px;
+font-size: 35px;
+}
+
+section {
+background: white;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+margin-right: 20px;
+border-right: solid 6px black;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+height: 200px;  
+
+}
